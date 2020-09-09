@@ -15,6 +15,10 @@ import java.util.stream.Collectors;
 
 import static org.springframework.boot.Banner.Mode.OFF;
 
+/**
+ * @author Raghu Semburakkiannan
+ */
+
 @SpringBootApplication
 public class RelationalDataAccessApplication implements CommandLineRunner {
 
