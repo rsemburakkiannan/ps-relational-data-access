@@ -1,6 +1,6 @@
 # ps-relational-data-access
 
-###Context
+### Context
 This sample app is created to illustrate simple non-web Spring Boot app with logging, profile(for environments like dev, test, uat, prod), Spring JDBC with H2 connect.
 
 In this code, we created only `dev` and `prod` profiles. Default or `dev` profile connects to H2 database.
